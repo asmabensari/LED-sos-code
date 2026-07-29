@@ -42,5 +42,3 @@ void loop() {
 }
 ```
 
-## Author
-Asma Bensari — L1 Computer Science Student
